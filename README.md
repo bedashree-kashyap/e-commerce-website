@@ -1,3 +1,3 @@
-# Shiners
+# e-commerce
 
-It's an ecommerce website with an interface for admin, delivery and users.
+It's a fullstack website with an interface for admin, delivery and users.
